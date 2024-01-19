@@ -1,0 +1,115 @@
+body {
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #292b2c;
+    background-color: #fff;
+}
+
+.container-top {
+    width: 360px;
+    min-height: 957px;
+    max-height: 4000px;
+    border-radius: 40px;
+    padding: 67px 14px 62px 14px;
+    background-color: #000000;
+    color: #292b2c;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #D0DBA8;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    height: 285px;
+    color: #292b2c;
+}
+
+footer {
+    padding-bottom: 40px;
+    padding-top: 20px;
+    background-color: #D0DBA8;
+    text-align: center;
+}
+
+.logo {
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.logo h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    margin-top: 0;
+}
+
+.navigation-item {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    display: block;
+    text-decoration: none;
+    color: #292b2c;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.navigation-item img {
+    width: 50px;
+    margin-right: 0;
+    transform: translateY(10px);
+}
+
+.logo span a {
+    color: black;
+}  
+
+.navigation-msgs {
+    margin-top: 40px;
+    width: 125px;
+    margin-right: 0;
+    padding-left: 120px;
+}
+.navigation-msgs-item {
+    margin-right: 5px;
+}
+/* ------------------------------ about ------------------------------ */
+.about {
+    padding-bottom: 30px;
+    color: #292b2c;
+    background-color: #fff;
+}
+.about-text {
+    display: inline-block;
+    text-align: justify;
+}
+.about-text h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    margin-top: 30px;
+    text-align: center;
+}
+.about-text p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 29px;
+    text-align: center;
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.about-image {
+    width: 360px;
+}
